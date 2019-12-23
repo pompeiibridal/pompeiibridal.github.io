@@ -17,6 +17,9 @@
     {% include modals.html %}
     {% include js.html %}
     {% include pinterest.html %}
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 
     </body>
 </html>

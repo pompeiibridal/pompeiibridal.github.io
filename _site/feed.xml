@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <title>Pompeii Bridal</title>
+    <description>Pompeii Bridal has been creating timeless wedding gowns since 2012.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Dec 2019 14:12:13 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Dec 2019 14:12:13 -0500</lastBuildDate>
+    <pubDate>Mon, 23 Dec 2019 14:26:26 -0500</pubDate>
+    <lastBuildDate>Mon, 23 Dec 2019 14:26:26 -0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
