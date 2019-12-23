@@ -3,10 +3,10 @@
   <channel>
     <title>Pompeii Bridal</title>
     <description>Pompeii Bridal has been creating timeless wedding gowns since 2012.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 23 Dec 2019 14:40:31 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Dec 2019 14:40:31 -0500</lastBuildDate>
+    <link>https://pompeiibridal.com/</link>
+    <atom:link href="https://pompeiibridal.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 23 Dec 2019 14:48:51 -0500</pubDate>
+    <lastBuildDate>Mon, 23 Dec 2019 14:48:51 -0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/18/project-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/18/project-1.html</guid>
+        <link>https://pompeiibridal.com/web%20development/2014/07/18/project-1.html</link>
+        <guid isPermaLink="true">https://pompeiibridal.com/web%20development/2014/07/18/project-1.html</guid>
         
         
         <category>Web Development</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/17/project-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/17/project-2.html</guid>
+        <link>https://pompeiibridal.com/web%20development/2014/07/17/project-2.html</link>
+        <guid isPermaLink="true">https://pompeiibridal.com/web%20development/2014/07/17/project-2.html</guid>
         
         
         <category>Web Development</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/16/project-3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/project-3.html</guid>
+        <link>https://pompeiibridal.com/web%20development/2014/07/16/project-3.html</link>
+        <guid isPermaLink="true">https://pompeiibridal.com/web%20development/2014/07/16/project-3.html</guid>
         
         
         <category>Web Development</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-4.html</guid>
+        <link>https://pompeiibridal.com/web%20development/2014/07/15/project-4.html</link>
+        <guid isPermaLink="true">https://pompeiibridal.com/web%20development/2014/07/15/project-4.html</guid>
         
         
         <category>Web Development</category>
@@ -66,8 +66,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-6.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-6.html</guid>
+        <link>https://pompeiibridal.com/web%20development/2014/07/15/project-6.html</link>
+        <guid isPermaLink="true">https://pompeiibridal.com/web%20development/2014/07/15/project-6.html</guid>
         
         
         <category>Web Development</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/14/project-5.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/project-5.html</guid>
+        <link>https://pompeiibridal.com/web%20development/2014/07/14/project-5.html</link>
+        <guid isPermaLink="true">https://pompeiibridal.com/web%20development/2014/07/14/project-5.html</guid>
         
         
         <category>Web Development</category>
